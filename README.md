@@ -1,2 +1,2 @@
-# Steam-API-in-Python
+# Steam API
 This program retrieves public information for a steam account using steam web API in Python 3
