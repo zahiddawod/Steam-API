@@ -1,4 +1,4 @@
-# Steam API <a href="https://travis-ci.org/zahiddawod/Steam-API" id="status-image-popup" title="Latest push build: passed" name="status-images" class="open-popup" data-ember-action="" data-ember-action-754="754"><img src="https://travis-ci.org/zahiddawod/Steam-API.svg?branch=master" alt="build:passed"></a>
+# Steam API <a href="https://travis-ci.org/zahiddawod/Steam-API" target="_blank" id="status-image-popup" title="Latest push build: passed" name="status-images" class="open-popup" data-ember-action="" data-ember-action-754="754"><img src="https://travis-ci.org/zahiddawod/Steam-API.svg?branch=master" alt="build:passed"></a>
 A simple program that retrieves public information from other steam accounts using steam's web API in Python 3
 
 <h1>What's this?</h1>
