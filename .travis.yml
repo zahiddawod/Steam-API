@@ -3,5 +3,5 @@ python:
   - "3.4"
   - "3.5"
   - "3.6"
-script: python
+script: py -m py_compile steamapi.py
 sudo: false
